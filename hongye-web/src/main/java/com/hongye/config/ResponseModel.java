@@ -2,7 +2,7 @@ package com.hongye.config;
 
 /**
  * 统一返回相应参数实体类
- * @author hongye 53182347@qq.com
+ * @author hongye
  */
 
 import org.springframework.web.context.request.RequestContextHolder;

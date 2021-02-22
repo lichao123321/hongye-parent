@@ -1,7 +1,7 @@
 package com.hongye.base;
 
 /**
- * @author hongye 53182347@qq.com
+ * @author hongye
  * @date 2019/6/1
  */
 public enum CodeEnum {

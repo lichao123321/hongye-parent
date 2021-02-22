@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 统一返回相应参数
- * @author hongye 53182347@qq.com
+ * @author hongye
  */
 public class ResponseHelper<T> implements Serializable {
 
