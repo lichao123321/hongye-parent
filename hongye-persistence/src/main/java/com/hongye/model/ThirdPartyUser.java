@@ -10,7 +10,6 @@ import java.io.Serializable;
 
 /**
  * @author hongye
- * @version 2018年7月26日 下午3:26:23
  */
 @SuppressWarnings("serial")
 @Builder

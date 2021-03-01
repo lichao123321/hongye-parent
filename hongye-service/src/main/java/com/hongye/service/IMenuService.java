@@ -11,7 +11,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-03
  */
 public interface IMenuService extends IService<Menu> {
 

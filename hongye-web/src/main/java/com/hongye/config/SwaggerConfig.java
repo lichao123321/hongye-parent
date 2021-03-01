@@ -18,7 +18,6 @@ import java.util.List;
 
 /**
  * @author hongye
- * @since on 2018/6/28.
  */
 @Configuration
 @EnableSwagger2

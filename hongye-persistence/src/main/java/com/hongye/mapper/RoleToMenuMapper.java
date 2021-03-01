@@ -9,7 +9,6 @@ import com.hongye.entity.RoleToMenu;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-03
  */
 public interface RoleToMenuMapper extends BaseMapper<RoleToMenu> {
 

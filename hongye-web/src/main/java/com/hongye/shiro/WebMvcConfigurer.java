@@ -11,7 +11,6 @@ import java.util.List;
 
 /**
  * @author hongye
- * @since 2018-05-03
  */
 @Configuration
 public class WebMvcConfigurer extends WebMvcConfigurerAdapter {

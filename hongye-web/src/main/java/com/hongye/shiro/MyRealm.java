@@ -26,7 +26,6 @@ import java.util.Set;
 
 /**
  * @author hongye
- * @since 2018-05-03
  */
 public class MyRealm extends AuthorizingRealm {
     private IUserService userService;

@@ -9,7 +9,6 @@ import com.hongye.entity.InfoToUser;
  * </p>
  *
  * @author hongye123
- * @since 2018-10-29
  */
 public interface IInfoToUserService extends IService<InfoToUser> {
 

@@ -12,7 +12,6 @@ import org.springframework.stereotype.Service;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-08
  */
 @Service
 public class OperationLogServiceImpl extends ServiceImpl<OperationLogMapper, OperationLog> implements IOperationLogService {

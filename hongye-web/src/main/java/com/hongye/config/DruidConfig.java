@@ -18,7 +18,6 @@ import java.sql.SQLException;
 /**
  * Druid数据库连接池
  * @author : hongye
- * @date : 2018/05/08
  */
 @Configuration
 public class DruidConfig {

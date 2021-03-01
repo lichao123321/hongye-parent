@@ -5,7 +5,6 @@ import com.hongye.base.BusinessException;
 
 /**
  * @author hongye
- * @since 2018-10-17
  */
 public enum SampleDesignOrderStatus implements OrderStatus {
     holder(null, null),

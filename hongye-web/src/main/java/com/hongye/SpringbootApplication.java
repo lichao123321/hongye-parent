@@ -10,7 +10,6 @@ import org.springframework.cache.annotation.EnableCaching;
 /** 
  * @Description: 指定项目为springboot，由此类当作程序入口，自动装配 web 依赖的环境
  * @author hongye
- * @since 2018-05-03
  *
  */
 @SpringBootApplication

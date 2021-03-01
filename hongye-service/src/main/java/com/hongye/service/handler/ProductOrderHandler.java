@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author hongye
- * @since 2018-10-17
  */
 @Component("ProductOrderHandler")
 public class ProductOrderHandler extends OrderHandler {

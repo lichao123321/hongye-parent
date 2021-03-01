@@ -7,7 +7,6 @@ import java.util.List;
 
 /**
  * @author hongye
- * @since 2018-10-17
  */
 public class OrderModel implements Serializable {
 	private static final long serialVersionUID = 1L;

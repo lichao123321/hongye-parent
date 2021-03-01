@@ -20,7 +20,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-03
  */
 @Service
 public class RoleToMenuServiceImpl extends ServiceImpl<RoleToMenuMapper, RoleToMenu> implements IRoleToMenuService {

@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 限流切面
- * Created by hongye on 2018/10/12.
+ * Created by hongye
  */
 @Slf4j
 public class AccessLimitAspect extends AbstractAspectManager{

@@ -16,7 +16,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author hongye
- * @since on 2018/7/11.
  */
 @ServerEndpoint(value = "/websocket/{mobile}")
 @Component

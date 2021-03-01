@@ -9,7 +9,6 @@ import org.springframework.web.filter.CorsFilter;
 /**
  * 处理跨域问题
  * @author : hongye
- * @date : 2018/05/08
  */
 @Configuration
 public class CorsConfig {

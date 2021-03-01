@@ -2,7 +2,7 @@ package com.hongye.base;
 
 /**
  * @author hongye
- * @date 2019/6/1
+ *
  */
 public enum CodeEnum {
     SUCCESS("10000","操作成功"),

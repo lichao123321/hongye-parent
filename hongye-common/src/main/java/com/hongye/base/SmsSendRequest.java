@@ -2,7 +2,7 @@ package com.hongye.base;
 
 /**
  *
- * @author tianyh
+ * @author hongye
  * @Description:普通短信发送实体类
  */
 public class SmsSendRequest {

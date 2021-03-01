@@ -11,7 +11,6 @@ import com.hongye.model.ThirdPartyUser;
  * </p>
  *
  * @author hongye123
- * @since 2018-07-27
  */
 public interface IUserThirdpartyService extends IService<UserThirdparty> {
 

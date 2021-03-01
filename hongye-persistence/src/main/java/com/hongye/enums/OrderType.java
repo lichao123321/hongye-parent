@@ -6,7 +6,6 @@ package com.hongye.enums;
  * </p>
  *
  * @author hongye
- * @since 2018-10-17
  */
 public enum OrderType {
 

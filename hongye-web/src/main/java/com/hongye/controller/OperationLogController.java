@@ -11,7 +11,6 @@ import springfox.documentation.annotations.ApiIgnore;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-08
  */
 @RestController
 @RequestMapping("/operationLog")

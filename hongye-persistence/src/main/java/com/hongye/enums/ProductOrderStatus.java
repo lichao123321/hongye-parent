@@ -11,7 +11,6 @@ import org.slf4j.LoggerFactory;
  * </p>
  *
  * @author hongye
- * @since 2018-10-17
  */
 public enum ProductOrderStatus implements OrderStatus {
 

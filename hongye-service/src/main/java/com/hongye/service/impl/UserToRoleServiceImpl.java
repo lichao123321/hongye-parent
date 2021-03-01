@@ -17,7 +17,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-03
  */
 @Service
 public class UserToRoleServiceImpl extends ServiceImpl<UserToRoleMapper, UserToRole> implements IUserToRoleService {

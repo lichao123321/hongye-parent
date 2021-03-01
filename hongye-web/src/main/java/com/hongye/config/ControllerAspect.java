@@ -18,7 +18,6 @@ import java.lang.reflect.Method;
 /**
  * 切面:防止xss攻击 记录log  参数验证
  * @author hongye
- * @since 2018-05-03
  */
 @Aspect
 @Configuration

@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by hongye on 2018/10/12.
+ * Created by hongye
  */
 @Target( { ElementType.METHOD } )
 @Retention( RetentionPolicy.RUNTIME )

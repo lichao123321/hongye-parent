@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  * @author hongye
- * @since 2018-05-07
+ *
  */
 public class JWTUtil {
 

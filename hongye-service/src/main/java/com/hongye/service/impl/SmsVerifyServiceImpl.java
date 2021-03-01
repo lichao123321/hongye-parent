@@ -22,7 +22,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye123
- * @since 2018-06-25
  */
 @Service
 public class SmsVerifyServiceImpl extends ServiceImpl<SmsVerifyMapper, SmsVerify> implements ISmsVerifyService {

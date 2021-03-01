@@ -12,7 +12,6 @@ import java.util.Map;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-03
  */
 public interface IRoleService extends IService<Role> {
 

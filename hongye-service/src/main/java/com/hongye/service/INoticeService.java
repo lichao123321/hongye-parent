@@ -11,7 +11,6 @@ import com.hongye.entity.User;
  * </p>
  *
  * @author hongye123
- * @since 2018-07-27
  */
 public interface INoticeService extends IService<Notice> {
 

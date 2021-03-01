@@ -26,7 +26,6 @@ import org.springframework.web.bind.annotation.*;
  * </p>
  *
  * @author hongye
- * @since 2018-05-03
  */
 @RestController
 @RequestMapping("/user")

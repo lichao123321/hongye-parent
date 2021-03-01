@@ -3,7 +3,6 @@ package com.hongye.exception;
 /**
  * 参数异常
  * @author hongye
- * @since 2018-05-06
  */
 public class ParamJsonException extends RuntimeException{
 

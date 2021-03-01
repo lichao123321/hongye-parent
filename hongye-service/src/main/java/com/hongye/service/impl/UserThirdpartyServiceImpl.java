@@ -17,7 +17,6 @@ import org.springframework.stereotype.Service;
  * </p>
  *
  * @author hongye123
- * @since 2018-07-27
  */
 @Service
 public class UserThirdpartyServiceImpl extends ServiceImpl<UserThirdpartyMapper, UserThirdparty> implements IUserThirdpartyService {

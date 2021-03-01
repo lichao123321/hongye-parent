@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.mapper.BaseMapper;
  * </p>
  *
  * @author hongye123
- * @since 2018-07-27
  */
 public interface UserThirdpartyMapper extends BaseMapper<UserThirdparty> {
 

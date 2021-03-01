@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 /**
  * 订单发货处理器
  * @author hongye
- * @since 2018-10-17
  */
 @Component("deliverProductProcessor")
 public class DeliverProductProcessor extends ActionProcessor{

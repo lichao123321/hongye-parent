@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.service.IService;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-08
  */
 public interface IOperationLogService extends IService<OperationLog> {
 

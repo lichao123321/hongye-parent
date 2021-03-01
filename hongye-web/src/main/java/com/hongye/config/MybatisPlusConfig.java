@@ -9,7 +9,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 /**
  *
  * @author hongye
- * @since 2018-03-21
  */
 @EnableTransactionManagement
 @Configuration

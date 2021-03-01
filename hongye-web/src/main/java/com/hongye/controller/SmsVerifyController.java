@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.*;
  * </p>
  *
  * @author hongye123
- * @since 2018-06-25
  */
 @RestController
 @RequestMapping("/smsVerify")

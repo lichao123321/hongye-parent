@@ -19,7 +19,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye123
- * @since 2018-07-27
  */
 @Service
 public class NoticeServiceImpl extends ServiceImpl<NoticeMapper, Notice> implements INoticeService {

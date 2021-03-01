@@ -6,7 +6,6 @@ import java.lang.reflect.Method;
 
 /**
  * @author hongye
- * @since on 2018/5/10.
  */
 public abstract class AbstractAspectManager implements AspectApi{
 

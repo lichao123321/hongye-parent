@@ -21,7 +21,6 @@ import springfox.documentation.annotations.ApiIgnore;
  * </p>
  *
  * @author hongye
- * @since 2018-07-27
  */
 @RestController
 @RequestMapping("/notice")

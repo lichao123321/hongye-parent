@@ -2,7 +2,7 @@ package com.hongye.base;
 
 /**
  * @author hongye
- * @since on 2018/5/8.
+ *
  */
 public class BusinessException extends Exception{
     /**

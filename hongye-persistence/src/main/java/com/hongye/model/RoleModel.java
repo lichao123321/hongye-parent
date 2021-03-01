@@ -8,7 +8,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye
- * @since 2018-06-30
  */
 public class RoleModel {
     private String roleName;

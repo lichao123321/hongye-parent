@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
 
 /**
  * @author hongye
- * @since on 2018/5/8.
+ *
  */
 public class StringUtil {
 

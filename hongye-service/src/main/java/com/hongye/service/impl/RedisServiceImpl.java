@@ -16,7 +16,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @author hongye
- * @since on 2018/5/11.
  */
 @Service
 public class RedisServiceImpl implements IRedisService {

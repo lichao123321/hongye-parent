@@ -19,7 +19,6 @@ import java.util.List;
  * </p>
  *
  * @author hongye123
- * @since 2018-05-03
  */
 @Service
 public class MenuServiceImpl extends ServiceImpl<MenuMapper, Menu> implements IMenuService {

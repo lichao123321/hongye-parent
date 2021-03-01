@@ -23,7 +23,6 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 记录日志切面
  * @author hongye
- * @since on 2018/5/10.
  */
 public class RecordLogAspect extends AbstractAspectManager {
 
